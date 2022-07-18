@@ -30,7 +30,7 @@ integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jI
 crossorigin="anonymous">
 <link href="https://webfontworld.github.io/SCoreDream/SCoreDream.css" rel="stylesheet">
 <style>
-@font={
+@font-face{
 	font-family: 'SCoreDream';
     font-weight: 400; 
     font-style: normal; 
